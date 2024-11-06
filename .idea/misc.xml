@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/GATWAY/GATWAY/pom.xml" />
+        <option value="$PROJECT_DIR$/ORDERS/Orders/pom.xml" />
+        <option value="$PROJECT_DIR$/INVENTRY/INVENTRY/pom.xml" />
+        <option value="$PROJECT_DIR$/DISCOVERY/DISCOVERY/pom.xml" />
+        <option value="$PROJECT_DIR$/DISCOVERY/pom.xml" />
+        <option value="$PROJECT_DIR$/GATWAY/pom.xml" />
+        <option value="$PROJECT_DIR$/INVENTRY/pom.xml" />
+        <option value="$PROJECT_DIR$/ORDERS/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="openjdk-22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

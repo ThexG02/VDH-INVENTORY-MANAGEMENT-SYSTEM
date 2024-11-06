@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DISCOVERY/DISCOVERY/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DISCOVERY/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GATWAY/GATWAY/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GATWAY/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/INVENTRY/INVENTRY/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/INVENTRY/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ORDERS/Orders/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ORDERS/src/main/java" charset="UTF-8" />
+  </component>
+</project>

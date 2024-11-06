@@ -1,0 +1,30 @@
+
+# API Gateway Config
+spring:
+  application:
+    name: GATWAY
+
+  #api gateway config
+  cloud:
+    gateway:
+      routes:
+        - id: Orders
+          uri: lb://ORDERS
+          predicates:
+            - Path=/api/v1/orders/**
+          filters:
+            StripPrefix=2
+
+        - id: INVENTRY
+          uri: lb://INVENTRY
+          predicates:
+            - Path=/api/v1/inventory/**
+          filters:
+            StripPrefix=2
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+eureka.instance.prefer-ip-address: true
+
